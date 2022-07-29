@@ -1,7 +1,7 @@
 ## ETF Analyzer
 
-ETF Analyzer  (stored as **etf_analyzer.ipynb**) is a multi-function JupyterLab notebook to help users compare the rise and fall of rental prices and average sales price per sq ft in San Francisco neighborhoods over the time period of 2010 - 2016
-
+ETF Analyzer  (stored as **etf_analyzer.ipynb**) is a multi-function JupyterLab notebook to help users compare four stocks within a fintech ETF ( GDOT, GS, PYPL, and SQ).
+All stock data is located within its own table in the etf database (etf.db)
 
 ---
 
