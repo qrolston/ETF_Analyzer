@@ -4,6 +4,8 @@ ETF Analyzer  (stored as **etf_analyzer.ipynb**) is a multi-function JupyterLab 
 All stock data is located within its own table in the etf database (etf.db)
 
 
+![screen-gif](gif.gif)
+
 ---
 
 ## Technologies
