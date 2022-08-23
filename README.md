@@ -3,6 +3,7 @@
 ETF Analyzer  (stored as **etf_analyzer.ipynb**) is a multi-function JupyterLab notebook to help users compare four stocks within a fintech ETF ( GDOT, GS, PYPL, and SQ).
 All stock data is located within its own table in the etf database (etf.db)
 
+
 ---
 
 ## Technologies
